@@ -1,5 +1,5 @@
 # Resume
-My resume
+
 The website is best shown in 1920x1080 and 100% browser zoom
 
 On the project page hover over the images to see more information about that said image.
